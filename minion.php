@@ -11,7 +11,7 @@ function IsPrime($n) {
 
 $num = 0;
 while ($num < 10000) {
-	$num = file_get_contents('http://rekenen-rekenen.oc.utreg.net/api.php');
+	$num = file_get_contents('http://priem.oc.utreg.net/api.php');
 	if (IsPrime($num) && $num>0) {
 		print "$num is a prime number\n";
 	} else {
