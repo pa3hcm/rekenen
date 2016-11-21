@@ -1,5 +1,5 @@
 <?php
-print "Content-Type: text/html\n\n";
+// print "Content-Type: text/html\n\n";
 
 $file = '/tmp/postcode.txt';
 
