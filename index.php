@@ -14,7 +14,7 @@ if (file_exists($file)) {
 <html>
 <head>
 	<title>Rekenen</title>
-	<meta http-equiv="refresh" content="5" />
+	<meta http-equiv="refresh" content="1" />
 </head>
 
 <body>
