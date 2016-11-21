@@ -190,7 +190,7 @@ if (self === top) {
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h1>Belangrijke thema&#39;s</h1>
+        <h1>Bezig met verwerken van postcode nummer: <?php print $num; ?></h1>
       </div>
     </div>
     <div class="row">
@@ -210,7 +210,7 @@ if (self === top) {
             <div class="bld-theme-item">
               <a href="http://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/toeslagen">
                 <img src="resources/26d74459-236f-4291-82c0-2bef59189e3f/bd_icon_toeslagen.png" alt=""/>
-                <p>Toeslagen</p>
+                <p>Aanvallen</p>
               </a>
             </div>
           </div>
