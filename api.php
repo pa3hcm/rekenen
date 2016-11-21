@@ -8,7 +8,7 @@ if (file_exists($file)) {
 	$num = intval(fgets($myfile));
 	fclose($myfile);
 	$num++;
-	if ($num < 10000) {
+	if ($num > 1000 && $num < 10000) {
 		$myfile = fopen($file, 'w');
 		fwrite ($myfile, $num);
 		fclose($myfile);
