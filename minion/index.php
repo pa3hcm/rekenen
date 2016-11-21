@@ -10,9 +10,9 @@ function IsPrime($n) {
 }
 
 $num = 0;
-while ($num < 9999) {
+for ($i=0; $i<10; $i++) {
 	$num = intval(file_get_contents('http://priem.oc.utreg.net/api.php'));
-	if ($num > 0) {
+	if ($num > 0 && $num < 10000) {
 		if (IsPrime($num)) {
 			print "$num is a prime number\n";
 		} else {
