@@ -95,7 +95,7 @@ if (self === top) {
       
       <div class="col-sm-12">
         <a target="" title="" href="http://www.belastingdienst.nl/wps/wcm/connect/nl/home" >
-          <img id="bld-img-logo" src="resources/0109b942-4d5a-409a-bbb6-9da8bde4a8f3/bld_logo_belastingdienst.png" alt="Logo Belastingdienst"/>
+          <img id="bld-img-logo" src="hackingdienst.png" alt="Logo Belastingdienst"/>
         </a>
       </div>
     </div>
@@ -330,14 +330,14 @@ if (self === top) {
     <div class="container">
       <div class="row">
 <div class="col-sm-3">
-<h2>Over de Belastingdienst</h2>
+<h2>Over de Hackingdienst</h2>
 
 <ul class="hyperlinks">
 <li><a href="http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/contact" >Contact</a></li>
 
 <li><a href="https://belastingdienst-in-beeld.nl/" >Over de organisatie</a></li>
 
-<li><a href="https://werken.belastingdienst.nl/" >Werken bij de Belastingdienst</a></li>
+<li><a href="https://werken.belastingdienst.nl/" >Werken bij de Hackingdienst</a></li>
 
 <li><a href="http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/help/help" >Help</a></li>
 </ul>
@@ -348,9 +348,9 @@ if (self === top) {
 <h2>Inloggen</h2>
 
 <ul class="bld-hyperlink">
-<li><a href="https://mijn.belastingdienst.nl/mbd-pmb/"  data-cke-saved-href="https://mijn.belastingdienst.nl/mbd-pmb/">Inloggen op Mijn Belastingdienst</a></li>
+<li><a href="https://mijn.belastingdienst.nl/mbd-pmb/"  data-cke-saved-href="https://mijn.belastingdienst.nl/mbd-pmb/">Inloggen op Mijn Hackingdienst</a></li>
 
-<li><a href="http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/toeslagen/inloggen_op_mijn_toeslagen" >Inloggen op Mijn toeslagen</a></li>
+<li><a href="http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/toeslagen/inloggen_op_mijn_toeslagen" >Inloggen op Mijn aanvallen</a></li>
 
 <li><a href="https://mijn.belastingdienst.nl/ppa/"  data-cke-saved-href="https://mijn.belastingdienst.nl/Webdiensten/">Inloggen voor ondernemers</a></li>
 </ul>
@@ -400,8 +400,6 @@ if (self === top) {
                           <div class="bld-logo bld-layer-content">
                         <a href="http://www.belastingdienst.nl/" title="Naar de startpagina van de Belastingdienst" ><img id="bld-img-logo" src="resources/0109b942-4d5a-409a-bbb6-9da8bde4a8f3/bld_logo_belastingdienst.png" alt="Belastingdienst" /></a>
                     </div> 
-      <div id="bld-nojs-text"><p>Javascript staat uit in deze internetbrowser. U moet <a href="http://www.enable-javascript.com/nl/" >Javascript activeren</a> om onze internetsite te zien.</p>
-</div>
     </div>
 <script type="text/javascript" src="resources/00e18ee6-65a1-4261-8110-25cbc6bbf4e0/jquery-2.1.4.min.js"></script>
 <script type="text/javascript" src="resources/956dfa02-43f1-4216-81aa-332cd789f551/belastingdienst.min.js"></script>
