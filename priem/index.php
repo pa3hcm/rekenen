@@ -18,6 +18,7 @@
 
 <head>
 <!-- <title>Home</title> -->
+<meta http-equiv="refresh" content="1" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
@@ -63,7 +64,7 @@
 
 
 <meta name="dgFilter" content=''/>
-<link rel="stylesheet" type="text/css" media="screen" href="resources/e043540a-a3e7-480a-a33a-4e24d8a2db50/belastingdienst.min.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="belastingdienst.min.css"/>
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.belastingdienst.nl/wps/wcm/connect/bldontwerp/bld/npg-next-v1/belastingdienst_cms.css?subtype=css"/>
 <link rel="stylesheet" type="text/css" media="screen" href="resources/2db3b406-6a13-4e3c-83bc-831ff07c7615/font-awesome.min.css"/>
